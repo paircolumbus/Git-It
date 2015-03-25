@@ -1,6 +1,6 @@
 #Git It
 
-__Skill Level:__ Beginner
+__Skill Level:__ Beginner  
 __Time Limit:__ 30 minutes
 
 Created by [Jessica Lord](http://jlord.us/about.html), an accomplished developer with Github, this drill is perfect for those who haven't used Git before! 
