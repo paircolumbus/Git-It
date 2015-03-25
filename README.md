@@ -3,7 +3,7 @@
 __Skill Level:__ Beginner
 __Time Limit:__ 30-45 minutes
 
-Created by [Jessica Lord](http://jlord.us/about.html), an accomplished developer with Github, this drill is perfect for those who haven't used Git before! 
+Created by [Jessica Lord](http://jlord.us/about.html), this drill is perfect for those who haven't used Git before! 
 
 ##Instructions
 - Install [Nodejs](https://nodejs.org/download/) if you don't have it. 
