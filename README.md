@@ -1,6 +1,6 @@
 #Git It
 
-__Skill Level:__ Beginner
+__Skill Level:__ Beginner  
 __Time Limit:__ 30-45 minutes
 
 Created by [Jessica Lord](http://jlord.us/about.html), this drill is perfect for those who haven't used Git before! 
@@ -16,7 +16,7 @@ _NOTE:_ You can check by opening your terminal and running `node -v`. The versio
 ##You're Finished When...
 Your screen looks like the image below.
 
-<img src='http://i.imgur.com/BgYhy0s.jpg', width='200'>
+<img src='http://i.imgur.com/BgYhy0s.jpg', width='300'>
 
 ##Resources
 - [Getting Git Right](https://www.atlassian.com/git/)  
