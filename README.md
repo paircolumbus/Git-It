@@ -10,7 +10,7 @@ Created by [Jessica Lord](http://jlord.us/about.html), this drill is perfect for
 
 _NOTE:_ You can check by opening your terminal and running `node -v`. The version should be higher than `0.10.32`
 - Update npm by running `sudo npm install npm -g` from within your terminal. 
-- Install this challenge by running `npm install -g git-it`
+- Install this challenge by running `sudo npm install -g git-it`
 - Run the command `git-it` and follow the instructions
 
 ##You're Finished When...
