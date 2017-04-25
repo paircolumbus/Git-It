@@ -16,7 +16,7 @@ _NOTE:_ You can check by opening your terminal and running `node -v`. The versio
 ## You're Finished When...
 Your screen looks like the image below.
 
-<img src='http://i.imgur.com/BgYhy0s.jpg', width='300'>
+![](http://i.imgur.com/BgYhy0s.jpg)
 
 ## Resources
 - [Getting Git Right](https://www.atlassian.com/git/)  
