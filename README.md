@@ -7,16 +7,12 @@ Created by [Jessica Lord](http://jlord.us/about.html), this drill is perfect for
 
 ## Instructions
 - Install [Nodejs](https://nodejs.org/) if you don't have it. 
+- Follow these [steps](https://github.com/jlord/git-it-electron)
 
-_NOTE:_ You can check by opening your terminal and running `node -v`. The version should be higher than `0.10.32`
-- Update npm by running `sudo npm install npm -g` from within your terminal. 
-- Install this challenge by running `sudo npm install -g git-it`
-- Run the command `git-it` and follow the instructions
-
-## You're Finished When...
+## The Application
 Your screen looks like the image below.
 
-![](http://i.imgur.com/BgYhy0s.jpg)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xvEDl"><a href="//imgur.com/xvEDl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Resources
 - [Getting Git Right](https://www.atlassian.com/git/)  
