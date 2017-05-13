@@ -10,9 +10,9 @@ Created by [Jessica Lord](http://jlord.us/about.html), this drill is perfect for
 - Follow these [steps](https://github.com/jlord/git-it-electron)
 
 ## The Application
-Your screen looks like the image below.
+If everything is setup correctly, you should see something like this.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xvEDl"><a href="//imgur.com/xvEDl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Imgur](http://i.imgur.com/Curd6zq.png)
 
 ## Resources
 - [Getting Git Right](https://www.atlassian.com/git/)  
